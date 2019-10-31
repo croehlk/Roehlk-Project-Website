@@ -1,4 +1,4 @@
-## Making a Project Website
+## Making Your Project Website
 
 ### Configuration variables
 
