@@ -1,8 +1,7 @@
 ## CattleTEC
 
 ### Here is our logo
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
+![alt text](https://github.com/croehlk/Roehlk-Project-Website/blob/master/CattleTEC-PNG.png "Logo Title Text 1")
 
 
 ### Configuration variables
