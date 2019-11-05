@@ -1,7 +1,7 @@
 ## Welcome to CattleTEC
 
 ### Here is our logo
-!(https://github.com/croehlk/Roehlk-Project-Website/blob/master/CattleTEC-PNG.png "Logo Title Text 1")
+![alt text](https://github.com/croehlk/Roehlk-Project-Website/blob/master/CattleTEC-PNG.png "Logo Title Text 1")
 
 
 ### Configuration variables
