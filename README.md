@@ -1,6 +1,5 @@
 ## Welcome to CattleTEC
 
-### Here is our logo
 ![CattleTEC-PNG](https://github.com/croehlk/Roehlk-Project-Website/blob/master/CattleTEC-PNG.png "CattleTEC Logo")
 
 ### Project Workflow
