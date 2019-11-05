@@ -1,10 +1,10 @@
 ## Welcome to CattleTEC
 
 ### Here is our logo
-![alt text](https://github.com/croehlk/Roehlk-Project-Website/blob/master/CattleTEC-PNG.png "CattleTEC Logo")
+![CattleTEC-PNG](https://github.com/croehlk/Roehlk-Project-Website/blob/master/CattleTEC-PNG.png "CattleTEC Logo")
 
 ### Project Workflow
-![alt text](https://github.com/croehlk/Roehlk-Project-Website/blob/master/516X-Project.png "Project Workflow")
+![516X-Project](https://github.com/croehlk/Roehlk-Project-Website/blob/master/516X-Project.png "Project Workflow")
 
 ### Configuration variables
 
